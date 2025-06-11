@@ -16,10 +16,11 @@
     ```
     > The -u flag sets the "upstream", so future git push/pull commands work without needing to specify the branch name.
         > if you don't include the -u, then on all future push and pull comamnds, you will need to specify the branch name as follows:
-        ```bash
-        git push origin new-branch-name
-        git pull origin new-branch-name
-        ```
+    > 
+    >    ```bash
+    >    git push origin new-branch-name
+    >    git pull origin new-branch-name
+    >    ```
 
 ## 🪾 Branches
 
